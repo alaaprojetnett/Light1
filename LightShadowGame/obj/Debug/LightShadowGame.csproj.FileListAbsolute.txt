@@ -1,0 +1,15 @@
+C:\Users\vufxh\Downloads\LightShadowGamee-master (6)\LightShadowGamee-master\LightShadowGame\obj\Debug\LightShadowGame.csproj.AssemblyReference.cache
+C:\Users\vufxh\Downloads\LightShadowGamee-master (6)\LightShadowGamee-master\LightShadowGame\obj\Debug\LightShadowGame.Form1.resources
+C:\Users\vufxh\Downloads\LightShadowGamee-master (6)\LightShadowGamee-master\LightShadowGame\obj\Debug\LightShadowGame.Properties.Resources.resources
+C:\Users\vufxh\Downloads\LightShadowGamee-master (6)\LightShadowGamee-master\LightShadowGame\obj\Debug\LightShadowGame.csproj.GenerateResource.cache
+C:\Users\vufxh\Downloads\LightShadowGamee-master (6)\LightShadowGamee-master\LightShadowGame\obj\Debug\LightShadowGame.csproj.CoreCompileInputs.cache
+C:\Users\vufxh\OneDrive\Bureau\LightShadowGamee-master (6)\LightShadowGamee-master\LightShadowGame\bin\Debug\LightShadowGame.exe.config
+C:\Users\vufxh\OneDrive\Bureau\LightShadowGamee-master (6)\LightShadowGamee-master\LightShadowGame\bin\Debug\LightShadowGame.exe
+C:\Users\vufxh\OneDrive\Bureau\LightShadowGamee-master (6)\LightShadowGamee-master\LightShadowGame\bin\Debug\LightShadowGame.pdb
+C:\Users\vufxh\OneDrive\Bureau\LightShadowGamee-master (6)\LightShadowGamee-master\LightShadowGame\obj\Debug\LightShadowGame.csproj.AssemblyReference.cache
+C:\Users\vufxh\OneDrive\Bureau\LightShadowGamee-master (6)\LightShadowGamee-master\LightShadowGame\obj\Debug\LightShadowGame.Form1.resources
+C:\Users\vufxh\OneDrive\Bureau\LightShadowGamee-master (6)\LightShadowGamee-master\LightShadowGame\obj\Debug\LightShadowGame.Properties.Resources.resources
+C:\Users\vufxh\OneDrive\Bureau\LightShadowGamee-master (6)\LightShadowGamee-master\LightShadowGame\obj\Debug\LightShadowGame.csproj.GenerateResource.cache
+C:\Users\vufxh\OneDrive\Bureau\LightShadowGamee-master (6)\LightShadowGamee-master\LightShadowGame\obj\Debug\LightShadowGame.csproj.CoreCompileInputs.cache
+C:\Users\vufxh\OneDrive\Bureau\LightShadowGamee-master (6)\LightShadowGamee-master\LightShadowGame\obj\Debug\LightShadowGame.exe
+C:\Users\vufxh\OneDrive\Bureau\LightShadowGamee-master (6)\LightShadowGamee-master\LightShadowGame\obj\Debug\LightShadowGame.pdb
